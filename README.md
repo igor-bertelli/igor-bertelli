@@ -1,5 +1,5 @@
 # Igor Bertelli
-Oi! Sou o Igor Bertelli, tenho 21 anos e sou estudante de Engenharia de Computação. Atualmente estou focando em front-end e e ciência de dados, através bootcamps e cursinhos da Alura e da DIO.
+Oi! Sou o Igor Bertelli, tenho 21 anos e sou estudante de Engenharia de Computação. Atualmente estou focando em front-end, ciência de dados e machine learning, através de bootcamps ou cursinhos da Alura e da DIO.
 
 ## :arrow_forward: Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGOR-BERTELLI&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=40A3DC&title_color=E94D5F&text_color=FFF) 
